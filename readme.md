@@ -1,4 +1,9 @@
 # 🎓 Student Performance Prediction using Machine Learning
+## 🌐 Live Demo
+
+**Streamlit Application:**
+
+https://studentperformanceprediction-doyflwb9gr3qwiady8y2mf.streamlit.app/
 
 ## 📌 Project Overview
 
